@@ -26,7 +26,7 @@ const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
             {/* Profile Image */}
             <div className="absolute inset-2 rounded-full overflow-hidden bg-gradient-to-b from-cyan-400/20 to-blue-500/20">
               <img 
-                src="/IMG_2850 (1).jpeg" 
+                src="/isaac.jpeg" 
                 alt="Isaac Hazael Villaseñor Cohen"
                 className="w-full h-full object-cover rounded-full"
               />
